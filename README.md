@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Akinwale!
 
-<!--
-**Akinwale81/Akinwale81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst with a background in management and administration and skilled in Excel, SQL and Power BI
 
-Here are some ideas to get you started:
+## Tools I work with
+- Microsoft Excel
+- SQL
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## My projects
+- [India Cancer Report 2022-2025] (....)
+
+- ## Currently learning
+- Python for Data Science
+
+  ## Let's connect!
+  [LinkedIn](https://linkedin.com/in/james-maku-a6654a349)
