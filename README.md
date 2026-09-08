@@ -8,7 +8,7 @@ I'm a data analyst with a background in management and administration and skille
 - Power BI
 
 - ## My projects
-- [India Cancer Report 2022-2025] (....)
+- [India Cancer Report 2022-2025] (https://github.com/Akinwale81/India-Cancer-Analysis-2022-2025)
 
 - ## Currently learning
 - Python for Data Science
