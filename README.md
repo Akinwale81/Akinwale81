@@ -14,4 +14,4 @@ I'm a data analyst with a background in management and administration and skille
 - Python for Data Science
 
   ## Let's connect!
-  [LinkedIn](https://linkedin.com/in/james-maku-a6654a349)
+  [LinkedIn](https://www.linkedin.com/in/james-maku)
